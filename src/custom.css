@@ -1,0 +1,5 @@
+ul.list-disc li {
+    list-style-type: none;
+    text-align: justify;
+    margin-bottom: 10px;
+}
