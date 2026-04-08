@@ -7,7 +7,7 @@ const navlinks = [
     { name: "Services", path: "/service" },
     { name: "Contact", path: "/contact" },
     { name: "Faq", path: "/faq" },
-    { name: "Blog", path: "/blog" },
+    { name: "Blogs", path: "/blog" },
 ];
 
 function Navbar() {
